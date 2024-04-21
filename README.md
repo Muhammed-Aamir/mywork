@@ -1,4 +1,4 @@
 # mywork
 This is my work repository
 <br>
-Author Muhammad Aamir
+Author - Muhammad Aamir
